@@ -1,0 +1,14 @@
+{
+  "name": "zimvault",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Static app only'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "paynow": "^1.0.0"
+  }
+}
